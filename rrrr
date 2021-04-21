@@ -1,0 +1,19 @@
+{
+	"uuid":"64350b50-a810-4901-b86b-7a5106bdef2c",
+	"title": "hackapp2528",
+
+	"channels":
+  [
+{"name":"toonee","url":"https://mediasv.online/tvchannel_x2/toonee/chunks.m3u8"},
+{"name":"disneyxd","url":"https://mediasv.online/tvchannel_x1/hd-disneyxd/chunks.m3u8"},
+{"name":"disney","url":"https://mediasv.online/tvchannel_x1/disney-channel/chunks.m3u8"},
+{"name":"babytv","url":"https://mediasv.online/tvchannel_x2/hd-babytv/chunks.m3u8"},
+{"name":"aniplus","url":"https://mediasv.online/tvchannel_x2/aniplus/chunks.m3u8"},
+{"name":"hd-axn","url":"https://mediasv.online/tvchannel_x1/hd-axn/playlist.m3u8"},
+{"name":"cinemax","url":"https://mediasv.online/tvchannel_x1/fhd-cinemax/playlist.m3u8"},
+{"name":"foxpremium","url":"https://mediasv.online/tvchannel_x1/hd-foxpremium/playlist.m3u8"},
+{"name":"hbo-thai","url":"https://mediasv.online/tvchannel_x1/hd-hbo-thai/playlist.m3u8 "},
+{"name":"foxactionmovie","url":"https://mediasv.online/tvchannel_x1/foxactionmovie/playlist.m3u8"},
+{"name":"hbo-hit","url":"https://mediasv.online/tvchannel_x1/hd-hbo-hit/playlist.m3u8"},
+{"name":"หนังดัง24ชั่วโมง","url":"http://196.53.248.18:8081/live/banner0003/playlist.m3u8"}
+]
